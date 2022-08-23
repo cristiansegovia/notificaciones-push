@@ -1,9 +1,8 @@
-require("dotenv").config();
+require("dotenv").config()
 
-const express = require("express");
-const morgan = require('morgan');
-const path = require("path");
-
+const express = require("express")
+const morgan = require('morgan')
+const path = require("path")
 const app = express()
 
 console.log("ingresando a app")
