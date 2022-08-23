@@ -16,7 +16,7 @@
     "web-push": "^3.4.3"
   },
   "devDependencies": {
-    "morgan": "^1.9.1",
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.2"
   }
 }
